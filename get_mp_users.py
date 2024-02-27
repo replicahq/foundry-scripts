@@ -5,7 +5,7 @@ import urllib3
 requests.packages.urllib3.disable_warnings() 
 urllib3.disable_warnings()
 
-BEARER_TOKEN = "ey"
+BEARER_TOKEN = ""
 
 
 def main():
